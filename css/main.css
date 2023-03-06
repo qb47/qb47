@@ -57,14 +57,14 @@ body {
 }
 .v2_18 {
   width: 75px;
-  color: rgb(168, 35, 35);
+  color: rgba(0,0,0,1);
   position: absolute;
   top: 14px;
   left: 46px;
   font-family: Nunito Sans;
   font-weight: SemiBold;
   font-size: 16px;
-  opacity: 2;
+  opacity: 1;
   text-align: center;
 }
 .v2_13 {
@@ -96,7 +96,7 @@ body {
 }
 .v2_15 {
   width: 76px;
-  color: rgb(29, 212, 29);
+  color: rgba(0,0,0,1);
   position: absolute;
   top: 14px;
   left: 46px;
